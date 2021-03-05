@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World!!!!! 👋
+
+![我的GitHub状态统计](https://github-readme-stats.vercel.app/api?username=beat-the-buzzer&theme=blueberry&show_icons=true) 
 
 <!--
 **beat-the-buzzer/beat-the-buzzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
